@@ -1,5 +1,5 @@
 cards:
   service:
-    url: http://localhost:9999
+    url: http://CARDS
     timeout: 3000
     retries: 1
